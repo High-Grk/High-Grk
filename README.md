@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @High-Grk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript and Angular. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @High-Grk.
+- 👀 I’m interested in DevOps practices and software development.
+- 🌱 I’m currently learning Javascript and Angular JS. I also want to learn frameworks like Apache Kafka and Java Spring framework as backend development. 
 
 <!---
 High-Grk/High-Grk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
