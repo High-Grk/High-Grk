@@ -1,5 +1,5 @@
 - 👋 Hola! soy @High-Grk.
-- 👀 Estoy interesado en la ingeniería de software y las prácticas DevOpsSec y la Ingeniería de Datos.
+- 👀 Estoy interesado en la ingeniería de software, las prácticas DevOpsSec y la ingeniería de datos.
 - 🌱 
 
 <!---
