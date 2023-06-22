@@ -1,5 +1,4 @@
-- 👋 Hi! i'm @High-Grk.
-- 🌱 I'm interested in machine learning research, software architecture and devops/sre/cloud engineering.
+- 🌱 Interesado en la investigación de machine learning, arquitectura de software e ingeniería devops/sre/cloud.
 
 <!---
 High-Grk/High-Grk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
